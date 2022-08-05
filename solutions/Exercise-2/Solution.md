@@ -1,6 +1,6 @@
-## Vulnerabilities
+# Vulnerabilities
 
-# Floating point issues
+## Floating point issues
 
 - User cannot buy above 2 items in this case . 
 
